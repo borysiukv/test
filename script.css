@@ -1,0 +1,131 @@
+
+.container{
+
+ padding:8%;
+ margin: 0%;
+
+
+}
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto;
+    height: auto; 
+    z-index:-1;
+}
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.nav-link{ margin-right: 1em !important;}
+.nav-link:hover{ background:rgb(255, 181, 45); color: white; }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+#logo{ width:8%; height:8%;}
+#text{
+    color:white;
+   z-index:1;
+}
+button{
+    color:white;
+    width:48%;
+}
+#card{
+    width:20%; 
+    margin:1%;
+}
+#btn{
+    background:rgb(255, 181, 45);
+    width:100%;
+}
+#h1{
+    margin:5%;
+}
+#screen2{
+    margin-top: 20%;
+}
+#screen3{
+    padding:10%;
+    width:100%;
+    height:80%;
+    color:white;
+    background-image: url('https://image.freepik.com/free-photo/man-is-sitting-laptop-dark-office_85574-2201.jpg');
+    background-size: cover;
+}
+#button11{
+    margin-top:10%;
+    margin-left: 25%;
+}
+#screen4{
+    height: 100%;
+    width:100%;
+    color:black;
+    background: white;
+    
+}
+#gray1{
+    height:50%;
+    width:40%;
+    background-color: #E7E7E7;
+  margin: 5%;
+margin-top:-3%;
+
+}
+#yt{
+    color:darkorange;
+    font-size:100px;
+    margin-left: 20%;
+}
+h3{
+    margin: 5%;
+}
+#cardtext{
+    margin:6%;
+}
+#poloska{
+    background-color: darkorange;
+    height:100px;
+    width:100%;
+    color:white;
+    padding: 2%;
+    padding-bottom: 8%;
+    font-size: 50px;
+}
+#str{
+    margin:5%;
+    width:40%;
+    height:30%;
+}
+#screen6{
+    color:white;
+    padding:5%;
+    background-size: cover;
+    background-image: url('https://wpapers.ru/wallpapers/Citys/New-York/11786/1280x1024_%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9-%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA.jpg');
+
+}
+#cb{
+    margin-top: 5%;
+}
+#screen7{
+ padding:2%;
+    color:black;
+}
+#lastlogo{
+    width: 30%;
+    height:30%;
+}
+#mar{
+    margin-left: 5%;
+}
+#mar1{
+    margin-left: 18%;
+}
+#poloska2{
+    background-color: darkorange;
+
+    width:100%;
+    color:white;
+    padding: 2%;
+
+    font-size: 20px;
+}
